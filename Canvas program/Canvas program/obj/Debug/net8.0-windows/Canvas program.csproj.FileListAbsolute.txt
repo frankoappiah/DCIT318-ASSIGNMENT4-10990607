@@ -1,0 +1,16 @@
+C:\Users\tedba\source\repos\Canvas program\Canvas program\bin\Debug\net8.0-windows\Canvas program.exe
+C:\Users\tedba\source\repos\Canvas program\Canvas program\bin\Debug\net8.0-windows\Canvas program.deps.json
+C:\Users\tedba\source\repos\Canvas program\Canvas program\bin\Debug\net8.0-windows\Canvas program.runtimeconfig.json
+C:\Users\tedba\source\repos\Canvas program\Canvas program\bin\Debug\net8.0-windows\Canvas program.dll
+C:\Users\tedba\source\repos\Canvas program\Canvas program\bin\Debug\net8.0-windows\Canvas program.pdb
+C:\Users\tedba\source\repos\Canvas program\Canvas program\obj\Debug\net8.0-windows\Canvas_program.Form1.resources
+C:\Users\tedba\source\repos\Canvas program\Canvas program\obj\Debug\net8.0-windows\Canvas program.csproj.GenerateResource.cache
+C:\Users\tedba\source\repos\Canvas program\Canvas program\obj\Debug\net8.0-windows\Canvas program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedba\source\repos\Canvas program\Canvas program\obj\Debug\net8.0-windows\Canvas program.AssemblyInfoInputs.cache
+C:\Users\tedba\source\repos\Canvas program\Canvas program\obj\Debug\net8.0-windows\Canvas program.AssemblyInfo.cs
+C:\Users\tedba\source\repos\Canvas program\Canvas program\obj\Debug\net8.0-windows\Canvas program.csproj.CoreCompileInputs.cache
+C:\Users\tedba\source\repos\Canvas program\Canvas program\obj\Debug\net8.0-windows\Canvas program.dll
+C:\Users\tedba\source\repos\Canvas program\Canvas program\obj\Debug\net8.0-windows\refint\Canvas program.dll
+C:\Users\tedba\source\repos\Canvas program\Canvas program\obj\Debug\net8.0-windows\Canvas program.pdb
+C:\Users\tedba\source\repos\Canvas program\Canvas program\obj\Debug\net8.0-windows\Canvas program.genruntimeconfig.cache
+C:\Users\tedba\source\repos\Canvas program\Canvas program\obj\Debug\net8.0-windows\ref\Canvas program.dll
