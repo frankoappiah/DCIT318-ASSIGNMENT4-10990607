@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tedba\\source\\repos\\Login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1591C819-3909-4CCA-9728-6714BDE034C6}|Login\\Login.csproj|c:\\users\\tedba\\source\\repos\\login\\login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1591C819-3909-4CCA-9728-6714BDE034C6}|Login\\Login.csproj|solutionrelative:login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1591C819-3909-4CCA-9728-6714BDE034C6}|Login\\Login.csproj|c:\\users\\tedba\\source\\repos\\login\\login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1591C819-3909-4CCA-9728-6714BDE034C6}|Login\\Login.csproj|solutionrelative:login\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1591C819-3909-4CCA-9728-6714BDE034C6}|Login\\Login.csproj|c:\\users\\tedba\\source\\repos\\login\\login\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1591C819-3909-4CCA-9728-6714BDE034C6}|Login\\Login.csproj|solutionrelative:login\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1591C819-3909-4CCA-9728-6714BDE034C6}|Login\\Login.csproj|C:\\Users\\tedba\\source\\repos\\Login\\login\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{1591C819-3909-4CCA-9728-6714BDE034C6}|Login\\Login.csproj|solutionrelative:login\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\tedba\\source\\repos\\Login\\Login\\Form1.cs",
+              "RelativeDocumentMoniker": "Login\\Form1.cs",
+              "ToolTip": "C:\\Users\\tedba\\source\\repos\\Login\\Login\\Form1.cs",
+              "RelativeToolTip": "Login\\Form1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAWwA0AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:27:47.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tedba\\source\\repos\\Login\\Login\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Login\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\tedba\\source\\repos\\Login\\Login\\Form1.Designer.cs",
+              "RelativeToolTip": "Login\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T18:14:48.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tedba\\source\\repos\\Login\\Login\\Form1.cs",
+              "RelativeDocumentMoniker": "Login\\Form1.cs",
+              "ToolTip": "C:\\Users\\tedba\\source\\repos\\Login\\Login\\Form1.cs [Design]",
+              "RelativeToolTip": "Login\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T11:30:54.018Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\tedba\\source\\repos\\Login\\Login\\Form1.resx",
+              "RelativeDocumentMoniker": "Login\\Form1.resx",
+              "ToolTip": "C:\\Users\\tedba\\source\\repos\\Login\\Login\\Form1.resx",
+              "RelativeToolTip": "Login\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-08T18:14:48.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
