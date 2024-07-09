@@ -1,0 +1,16 @@
+C:\Users\tedba\source\repos\Address book\Address book\bin\Debug\net8.0-windows\Address book.exe
+C:\Users\tedba\source\repos\Address book\Address book\bin\Debug\net8.0-windows\Address book.deps.json
+C:\Users\tedba\source\repos\Address book\Address book\bin\Debug\net8.0-windows\Address book.runtimeconfig.json
+C:\Users\tedba\source\repos\Address book\Address book\bin\Debug\net8.0-windows\Address book.dll
+C:\Users\tedba\source\repos\Address book\Address book\bin\Debug\net8.0-windows\Address book.pdb
+C:\Users\tedba\source\repos\Address book\Address book\obj\Debug\net8.0-windows\Address_book.Form1.resources
+C:\Users\tedba\source\repos\Address book\Address book\obj\Debug\net8.0-windows\Address book.csproj.GenerateResource.cache
+C:\Users\tedba\source\repos\Address book\Address book\obj\Debug\net8.0-windows\Address book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tedba\source\repos\Address book\Address book\obj\Debug\net8.0-windows\Address book.AssemblyInfoInputs.cache
+C:\Users\tedba\source\repos\Address book\Address book\obj\Debug\net8.0-windows\Address book.AssemblyInfo.cs
+C:\Users\tedba\source\repos\Address book\Address book\obj\Debug\net8.0-windows\Address book.csproj.CoreCompileInputs.cache
+C:\Users\tedba\source\repos\Address book\Address book\obj\Debug\net8.0-windows\Address book.dll
+C:\Users\tedba\source\repos\Address book\Address book\obj\Debug\net8.0-windows\refint\Address book.dll
+C:\Users\tedba\source\repos\Address book\Address book\obj\Debug\net8.0-windows\Address book.pdb
+C:\Users\tedba\source\repos\Address book\Address book\obj\Debug\net8.0-windows\Address book.genruntimeconfig.cache
+C:\Users\tedba\source\repos\Address book\Address book\obj\Debug\net8.0-windows\ref\Address book.dll
